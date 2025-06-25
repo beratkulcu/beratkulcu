@@ -1,3 +1,24 @@
+<h1 align="center">Merhaba 👋, ben Berat Kulcu</h1>
+<h3 align="center">Java Geliştiricisi</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beratkulcu&label=Profile%20views&color=0e75b6&style=flat" alt="beratkulcu" /> </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=beratkulcu" alt="beratkulcu" />
+  </a> 
+</p>
+
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/berat-kulcu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berat-kulcu" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/kulcuberatt" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulcuberatt" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left" style="white-space: nowrap; overflow-x: auto;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -52,3 +73,9 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right:8px;" />
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratkulcu&show_icons=true&locale=tr&layout=compact" alt="beratkulcu" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=beratkulcu&show_icons=true&locale=tr" alt="beratkulcu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beratkulcu&" alt="beratkulcu" /></p>
